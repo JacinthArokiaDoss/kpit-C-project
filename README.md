@@ -1,0 +1,2 @@
+# kpit-C-project
+The problem is to place  8 queen on an 8x8 chess board so that no two queens  are in the same row,column or diagonal.The problem is solved by using backtracking method.By using this method a set of solution or which require an optimal solution can be solved.The N queen problem is often studied as a mathematical recreation.The  applications are Parallel memory storage schemes,vlsi testing,traffic control and deadlock prevention.
